@@ -1,8 +1,8 @@
-## Trabalho 1 de Banco de Dados
+## Banco de Dados - Trabalho 1
 
-<center>
-![](https://cdn-images-1.medium.com/max/466/1*HSZjhuNmSZoRw4pH9Ug1vQ.gif)
-</center>
+![banco de dados](https://cdn-images-1.medium.com/max/466/1*HSZjhuNmSZoRw4pH9Ug1vQ.gif)
+
+**Universidade Federal do Amazonas** 
 
 **Professor:** Altigran.
 
